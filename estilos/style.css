@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+:root{
+--cor01:#F26E22;
+--cor02:#BF7245;
+--cor03:#F2CAB3;
+--cor04:#F25922;
+--cor05:#F2F2F2;
+}
+header > div > h1{
+
+color: var(--cor05);
+
+}
+div.cab{
+background-color: var(--cor04);
+max-height: 400px;
+text-align: center;
+
+}
+nav{
+margin-top: 10px;
+
+}
+nav > a{
+color: var(--cor05);
+text-decoration: none;
+}
